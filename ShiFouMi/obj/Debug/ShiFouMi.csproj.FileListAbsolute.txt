@@ -1,0 +1,9 @@
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\bin\Debug\ShiFouMi.exe.config
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\bin\Debug\ShiFouMi.exe
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\bin\Debug\ShiFouMi.pdb
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.csprojResolveAssemblyReference.cache
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.JeuChiFouMi.resources
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.Properties.Resources.resources
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.csproj.GenerateResource.Cache
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.exe
+C:\Users\sourd\Documents\BTS SIO\programmes C#sharp\Objet\ShiFouMi\ShiFouMi\obj\Debug\ShiFouMi.pdb
